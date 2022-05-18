@@ -1,4 +1,4 @@
-# NLP # A study of machine translation for Vietnamese and
+# NLP ___ A study of machine translation for Vietnamese and
 Korean on the TED Talks 2020 corpus
 This research presents some experimental results on the TED Talks 2020 dataset for the task Korean - Vietnamese and Vietnamese - Korean machine translation with the purpose of providing an overview of the dataset and a deep learning machine translation model for the problem.
 # Dataset 
